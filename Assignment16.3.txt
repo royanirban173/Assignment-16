@@ -1,0 +1,16 @@
+In a class on 100 students, 80 students passed in all subjects, 10 failed in one subject, 7
+failed in two subjects and 3 failed in three subjects. Find the probability distribution of
+the variable for number of subjects a student from the given class has failed in.
+
+
+-SOLUTION--------------------------------------------------------------------------------------------------
+
+Probability of faililing in 0 subject = 80/100=.8
+Probability of faililing in 1 subject = 10/100=.1
+Probability of faililing in 2 subjects = 7/100=.07
+Probability of faililing in 3 subjects = 3/100=.03
+
+Probability Distribution Table Is Shown below
+
+ X	 0	 1	 2	 3
+ P(X)	0.8	 0.1	 0.07	 0.03
